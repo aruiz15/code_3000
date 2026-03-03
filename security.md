@@ -1,12 +1,12 @@
 # security overview
 
-## intended Users
+## intended users
 this repository is intended only for:
 - student (repo owner)
 - course instructor and TAs
 
-## risk Assessment
-repository contains coursework assignments and educational datasets. While the data appears low-risk some potential concerns include:
+## risk assessment 
+repository contains coursework assignments and educational datasets. while the data looks to be low-risk some potential concerns could include:
 
 - exposure of personal identifying information if accidentally committed
 - academic integrity risks if others copy coursework solutions
